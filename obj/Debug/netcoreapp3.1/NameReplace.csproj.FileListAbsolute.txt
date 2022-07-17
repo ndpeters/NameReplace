@@ -1,0 +1,14 @@
+C:\dev\Git\NameReplace\obj\Debug\netcoreapp3.1\NameReplace.csproj.AssemblyReference.cache
+C:\dev\Git\NameReplace\obj\Debug\netcoreapp3.1\NameReplace.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Git\NameReplace\obj\Debug\netcoreapp3.1\NameReplace.AssemblyInfoInputs.cache
+C:\dev\Git\NameReplace\obj\Debug\netcoreapp3.1\NameReplace.AssemblyInfo.cs
+C:\dev\Git\NameReplace\obj\Debug\netcoreapp3.1\NameReplace.csproj.CoreCompileInputs.cache
+C:\dev\Git\NameReplace\bin\Debug\netcoreapp3.1\NameReplace.exe
+C:\dev\Git\NameReplace\bin\Debug\netcoreapp3.1\NameReplace.deps.json
+C:\dev\Git\NameReplace\bin\Debug\netcoreapp3.1\NameReplace.runtimeconfig.json
+C:\dev\Git\NameReplace\bin\Debug\netcoreapp3.1\NameReplace.runtimeconfig.dev.json
+C:\dev\Git\NameReplace\bin\Debug\netcoreapp3.1\NameReplace.dll
+C:\dev\Git\NameReplace\bin\Debug\netcoreapp3.1\NameReplace.pdb
+C:\dev\Git\NameReplace\obj\Debug\netcoreapp3.1\NameReplace.dll
+C:\dev\Git\NameReplace\obj\Debug\netcoreapp3.1\NameReplace.pdb
+C:\dev\Git\NameReplace\obj\Debug\netcoreapp3.1\NameReplace.genruntimeconfig.cache
